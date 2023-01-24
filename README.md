@@ -4,7 +4,7 @@
 
 - 💬 Ask me about: still learning daily but we can discuss ideas regarding Linux shell and web development...
 
-- 💬I am available : **sunilnath0109@gmail.com**
+- 💬 I am available : **sunilnath0109@gmail.com**
 
 - ⚡ Fun fact **genetically enigineered to start dancing on pop songs 🎶😅...**
 

@@ -7,7 +7,7 @@
 
 - 💬 I am available : **sunilnath0109@gmail.com**
 
-- ⚡ Fun fact **genetically enigineered to start dancing on pop songs 🎶😅...**
+- ⚡ Fun fact: **genetically enigineered to start dancing on pop songs 🎶😅...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

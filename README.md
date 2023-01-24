@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning CSS/JS and linux shell
 
-- 💬 Ask me about: still learning daily but we can discuss ideas regarding Linux shell and web development.
+- 💬 Ask me about: still learning daily but we can discuss ideas regarding Linux shell and web development...
 
 - 💬I am available : **sunilnath0109@gmail.com**
 

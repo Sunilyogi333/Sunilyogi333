@@ -1,3 +1,4 @@
+<h1 align="center">Hello there 🙂 !</h1>
 <h3 align="center">Myself Sunil Nath. I am pursuing Bachelor in IT Engineering at NCIT.</h3>
 
 - 🌱 I’m currently learning CSS/JS and linux shell

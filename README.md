@@ -1,4 +1,5 @@
 <h3 align="center">Myself Sunil Nath. I am pursuing Bachelor in IT Engineering at NCIT.</h3>
+
 - 🌱 I’m currently learning CSS/JS and linux shell
 
 - 💬 Ask me about: still learning daily but we can discuss ideas regarding Linux shell and web development.

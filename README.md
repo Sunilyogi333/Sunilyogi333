@@ -1,7 +1,7 @@
 
-<h1><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello there 🙂! Welcome+to+my+Profile!" align="middle" alt="Hello there🙂! Welcome to my profile"></h1>
+<h1><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello there 🙂! Welcome+to+my+Profile!" align="middle" alt="Hello there🙂! Welcome to my profile"></h1>
 
-<h2 align="center">Myself Sunil Nath | A IT Engineering Student |</h2>
+<p align="center"><b>Myself Sunil Nath | IT Engineering Student |</b></p>
 
 - 🌱 Currently, I'm enhancing my skills on CSS/JS and linux shell
 

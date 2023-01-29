@@ -3,7 +3,7 @@
 
 <h3 align="center">Myself Sunil Nath | IT Engineering Student |</h3>
 
-- 🌱 Currently, I'm enhancing my skills on CSS/JS and linux shell
+- 🌱 Currently, I'm enhancing my skills on CSS/JS and linux shell.
 
 - 💬 Ask me about: still learning daily but we can discuss ideas regarding Linux shell and web development...
 

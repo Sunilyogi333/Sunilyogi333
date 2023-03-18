@@ -9,7 +9,7 @@
 
 - 💬 I am available : **sunilnath0109@gmail.com**
 
-- ⚡ Fun fact: **genetically enigineered to start dancing on pop songs 🎶😅...**
+- ⚡ Fun fact: **genetically engineered to start dancing on pop songs 🎶😅...**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">

@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js," width="250"/>
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,php" width="250"/>
   </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilyogi333&label=Profile%20views&color=0e75b6&style=flat" alt="sunilyogi333" /> </p>

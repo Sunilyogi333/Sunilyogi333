@@ -1,7 +1,7 @@
 <h1><b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=2800&pause=2000&color=scale-gray&center=true&vCenter=true&width=940&height=50&lines=Hello+there+🙂!+Welcome+to+my+Profile!" align="middle" alt="Hello there🙂! Welcome to my profile"></a></b></h1>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a> -->
 
-<h3 align="center"><b>IT Engineering Student | Front-End Developer </b></h3>
+<h3 align="center"><b> | IT Engineering Student |  </b></h3>
 
 - 🌱 Currently, I'm enhancing my skills on **linux shell.**
 

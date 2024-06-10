@@ -10,7 +10,7 @@
 - 💬 I am available : **sunilnath0109@gmail.com**
 
 - ⚡ Fun fact: **genetically engineered to start dancing on pop songs 🎶😅...**
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Frameworks:</h3>
 <p>
     <spam><img height="35" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"></spam>
     <spam><img height="35" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png"></spam>
@@ -21,6 +21,15 @@
     <spam><img height="30" title="MySQL" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1280px-MySQL_logo.svg.png"></spam>
     <spam><img height="30" title="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Linux_logo.jpg/640px-Linux_logo.jpg"></spam>
     <spam><img height="30" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"></spam>
+    <spam><img height="30" width="42" title="next js" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/640px-Nextjs-logo.svg.png"</spam>
+    <spam><img height="30" title="next js" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png"</spam>
+
     
 </p>
+<h3><b>Databases</b></h3>
+<p>
+<img src="https://img.shields.io/badge/MySQL-007acc?style=for-the-badge&logo=mysql&logoColor=ffffff"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilyogi333&label=Profile%20views&color=0e75b6&style=flat" alt="sunilyogi333" /> </p>

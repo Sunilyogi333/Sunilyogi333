@@ -20,10 +20,9 @@
     <spam><img height="30" title="PHP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png"></spam>
     <spam><img height="30" title="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Linux_logo.jpg/640px-Linux_logo.jpg"></spam>
     <spam><img height="30" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"></spam>
+    <spam><img height="30" title="react js" src= "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"</spam>
     <spam><img height="30" width="42" title="next js" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/640px-Nextjs-logo.svg.png"</spam>
-    <spam><img height="30" title="next js" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png"</spam>
-
-    
+    <spam><img height="30" title="node js" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png"</spam>
 </p>
 <h3><b>Databases</b></h3>
 <p>

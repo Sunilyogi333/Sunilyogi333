@@ -2,14 +2,11 @@
 <h3 align="center"><b>| IT Engineering Student |</b></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilyogi333&label=Profile%20views&color=0e75b6&style=flat" alt="sunilyogi333" /> </p>
 
-- Currently working with  
-  **Python** · **JavaScript** · **PostgreSQL**
+- Currently working with: **Python** · **JavaScript** · **PostgreSQL**
 
-- Currently learning  
-  **System design** and **modern software engineering** practices
+- Currently learning: **System design** and **modern software engineering** practices
 
-- Ask me about  
-  **Problem-solving, building full-stack apps, and bringing ideas to life** — still learning every day.
+- Ask me about: **Problem-solving, building full-stack apps,** and bringing ideas to life.
 
 - I am available at: **sunilnath0109@gmail.com**
 
